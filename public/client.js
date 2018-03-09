@@ -1,15 +1,16 @@
 $('img').mouseover(function() {
-  $(this).attr('src','assets/bookmark4.jpg');
+  $(this).attr('src','/assets/bookmark4.jpg');
 });
 
 $('img').mouseout(function() {
-  $(this).attr('src','assets/bookmark3.jpg');
+  $(this).attr('src','/assets/bookmark3.jpg');
 });
 
-$(".removeBookmark").click(function() {
+$(".delbookmark").click(function() {
   return confirm('Really delete this bookmark?');
 });
 
-$(".deleteWeb").click(function() {
+$(".delweb").click(function() {
   return confirm('Really delete this website?');
 });
+
