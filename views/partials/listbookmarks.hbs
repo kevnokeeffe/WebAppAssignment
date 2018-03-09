@@ -3,11 +3,15 @@
     <h2 class="ui header">
       {{title}}
     </h2>
-    <p> Total Duration: {{duration}} </p>
+    <p> Description {{description}} </p>
+    {{#if websites}}
     <a href="/bookmark/{{id}}" class="ui icon button">
       <i class="icon folder open"></i>
     </a>
-    <a href="/dashboard/removeBookmark/{{id}}" class="ui icon button">
+    {{/if}}
+    
+
+    <a href="/removeBookmark/{{id}}" class="removeBookmark ui icon button">
       <i class="icon trash"></i>
     </a>
     <div class="imgholder clearfix">

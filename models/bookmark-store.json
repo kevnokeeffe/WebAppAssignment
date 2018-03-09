@@ -4,28 +4,28 @@
     {
       "id" : "01",
       "title": "Html",
-      "duration": 35,
+      "description": ": Helpfull Html Websites",
       "img":"https://cdn.glitch.com/2e7e195f-8aeb-4aa6-9de5-9981c0a9cf45%2Fbookmark2.jpg?1520601273783",
       "websites": [
         {
           "id" : "04",
-          "website": "Google",
-          "webaddress": "http://www.google.com",
-          "genre": "Search Engin",
+          "website": "Html Dog",
+          "webaddress": "http://htmldog.com/guides/html/beginner/",
+          "genre": "Web Design",
           "duration": 5
         },
         {
           "id" : "05",
-          "website": "Piano Sonata No. 7",
-          "webaddress": "Beethoven",
-          "genre": "Classical",
+          "website": "W3 Schools",
+          "webaddress": "https://www.w3schools.com",
+          "genre": "Web Design",
           "duration": 6
         },
         {
           "id" : "06",
-          "website": "Piano Sonata No. 10",
-          "webaddress": "Beethoven",
-          "genre": "Classical",
+          "website": "Code Academy",
+          "webaddress": "https://www.codecademy.com",
+          "genre": "Web Design",
           "duration": 4
         }
       ]
@@ -33,28 +33,28 @@
     {
       "id" : "02",
       "title": "CSS",
-      "duration": 23,
+      "description": ": Helpfull CSS Websites",
       "img":"https://cdn.glitch.com/2e7e195f-8aeb-4aa6-9de5-9981c0a9cf45%2Fbookmark5.jpg?1520602180931",
       "websites": [
         {
           "id" : "07",
-          "website": "Piano Concerto No. 0",
-          "webaddress": "Beethoven",
-          "genre": "Classical",
+          "website": "Motzilla",
+          "webaddress": "https://developer.mozilla.org/en-US/docs/Learn/CSS",
+          "genre": "Web Design",
           "duration": 8
         },
         {
           "id" : "08",
-          "website": "Piano Concerto No. 4",
-          "webaddress": "Beethoven",
-          "genre": "Classical",
+          "website": "Css Bootstrap",
+          "webaddress": "https://getbootstrap.com/docs/3.3/css/",
+          "genre": "Web Design",
           "duration": 3
         },
         {
           "id" : "09",
-          "website": "Piano Concerto No. 6",
-          "webaddress": "Beethoven",
-          "genre": "Classical",
+          "website": "Meyer Web",
+          "webaddress": "https://meyerweb.com/eric/tools/css/reset/",
+          "genre": "Web Design",
           "duration": 4
         }
       ]
@@ -62,21 +62,21 @@
     {
       "id" : "03",
       "title": "JavaScript",
-      "duration": 67,
+      "description": ": Helpfull Java Script Websites",
       "img":"https://cdn.glitch.com/2e7e195f-8aeb-4aa6-9de5-9981c0a9cf45%2Fbookmark1.jpg?1520602201067",
       "websites": [
         {
           "id" : "10",
-          "website": "Opus 34: Six variations on a theme in F major",
-          "webaddress": "Beethoven",
-          "genre": "Classical",
+          "website": "Java Script",
+          "webaddress": "https://www.javascript.com/",
+          "genre": "Java",
           "duration": 11
         },
         {
           "id" : "11",
-          "website": "Opus 120: Thirty-three variations on a waltz by Diabelli in C majo",
-          "webaddress": "Beethoven",
-          "genre": "Classical",
+          "website": "Motzilla",
+          "webaddress": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
+          "genre": "Web Design",
           "duration": 45
         }
       ]
@@ -85,28 +85,28 @@
     {
       "id" : "04",
       "title": "UX Design",
-      "duration": 23,
+      "description": ": Helpfull UX Design Websites",
       "img":"https://cdn.glitch.com/2e7e195f-8aeb-4aa6-9de5-9981c0a9cf45%2Fbookmark4.jpg?1520602189379",
       "websites": [
         {
           "id" : "12",
-          "website": "Piano Concerto No. 0",
-          "webaddress": "Beethoven",
-          "genre": "Classical",
-          "duration": 8
+          "website": "Site Point",
+          "webaddress": "https://www.sitepoint.com/ux-designer-actually/",
+          "genre": "Design",
+          "description": 8
         },
         {
           "id" : "13",
-          "website": "Piano Concerto No. 4",
-          "webaddress": "Beethoven",
-          "genre": "Classical",
+          "website": "Interaction Design",
+          "webaddress": "https://www.interaction-design.org/literature/topics/ux-design",
+          "genre": "Design",
           "duration": 3
         },
         {
           "id" : "14",
-          "website": "Piano Concerto No. 6",
-          "webaddress": "Beethoven",
-          "genre": "Classical",
+          "website": "UX Collective",
+          "webaddress": "https://uxdesign.cc/",
+          "genre": "Design",
           "duration": 4
         }
       ]
