@@ -1,0 +1,82 @@
+
+{
+  "bookmarkCollection": [
+    {
+      "id" : "01",
+      "title": "Favorute Websites",
+      "duration": 35,
+      "websites": [
+        {
+          "id" : "04",
+          "website": "Piano Sonata No. 3",
+          "webaddress": "Beethoven",
+          "genre": "Classical",
+          "duration": 5
+        },
+        {
+          "id" : "05",
+          "website": "Piano Sonata No. 7",
+          "webaddress": "Beethoven",
+          "genre": "Classical",
+          "duration": 6
+        },
+        {
+          "id" : "06",
+          "website": "Piano Sonata No. 10",
+          "webaddress": "Beethoven",
+          "genre": "Classical",
+          "duration": 4
+        }
+      ]
+    },
+    {
+      "id" : "02",
+      "title": "News",
+      "duration": 23,
+      "websites": [
+        {
+          "id" : "07",
+          "website": "Piano Concerto No. 0",
+          "webaddress": "Beethoven",
+          "genre": "Classical",
+          "duration": 8
+        },
+        {
+          "id" : "08",
+          "website": "Piano Concerto No. 4",
+          "webaddress": "Beethoven",
+          "genre": "Classical",
+          "duration": 3
+        },
+        {
+          "id" : "09",
+          "website": "Piano Concerto No. 6",
+          "webaddress": "Beethoven",
+          "genre": "Classical",
+          "duration": 4
+        }
+      ]
+    },
+    {
+      "id" : "03",
+      "title": "Art",
+      "duration": 67,
+      "websites": [
+        {
+          "id" : "10",
+          "website": "Opus 34: Six variations on a theme in F major",
+          "webaddress": "Beethoven",
+          "genre": "Classical",
+          "duration": 11
+        },
+        {
+          "id" : "11",
+          "website": "Opus 120: Thirty-three variations on a waltz by Diabelli in C majo",
+          "webaddress": "Beethoven",
+          "genre": "Classical",
+          "duration": 45
+        }
+      ]
+    }
+  ]
+}
