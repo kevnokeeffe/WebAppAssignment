@@ -15,13 +15,20 @@ const bookmarkStore ={
   getBookmark(id) {
     return _.find(this.bookmarkCollection, { id: id });
   },  
+  
   removeWeb(id,webId){
  const bookmark = this.getBookmark(id); 
     _.remove(bookmark.websites, {id: webId});
-}   
+} ,  
   
+  removeBookmark(id){
+  _.remove(this.bookmarkCollection,{id:id});
+}
   
 };
+
+
+module.exports = bookmarkStore;
 
 
 

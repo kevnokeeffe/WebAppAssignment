@@ -3,14 +3,15 @@
   "bookmarkCollection": [
     {
       "id" : "01",
-      "title": "Favorute Websites",
+      "title": "Html",
       "duration": 35,
+      "img":"https://cdn.glitch.com/2e7e195f-8aeb-4aa6-9de5-9981c0a9cf45%2Fbookmark2.jpg?1520601273783",
       "websites": [
         {
           "id" : "04",
-          "website": "Piano Sonata No. 3",
-          "webaddress": "Beethoven",
-          "genre": "Classical",
+          "website": "Google",
+          "webaddress": "http://www.google.com",
+          "genre": "Search Engin",
           "duration": 5
         },
         {
@@ -31,8 +32,9 @@
     },
     {
       "id" : "02",
-      "title": "News",
+      "title": "CSS",
       "duration": 23,
+      "img":"https://cdn.glitch.com/2e7e195f-8aeb-4aa6-9de5-9981c0a9cf45%2Fbookmark5.jpg?1520602180931",
       "websites": [
         {
           "id" : "07",
@@ -59,8 +61,9 @@
     },
     {
       "id" : "03",
-      "title": "Art",
+      "title": "JavaScript",
       "duration": 67,
+      "img":"https://cdn.glitch.com/2e7e195f-8aeb-4aa6-9de5-9981c0a9cf45%2Fbookmark1.jpg?1520602201067",
       "websites": [
         {
           "id" : "10",
@@ -75,6 +78,36 @@
           "webaddress": "Beethoven",
           "genre": "Classical",
           "duration": 45
+        }
+      ]
+    },
+    
+    {
+      "id" : "04",
+      "title": "UX Design",
+      "duration": 23,
+      "img":"https://cdn.glitch.com/2e7e195f-8aeb-4aa6-9de5-9981c0a9cf45%2Fbookmark4.jpg?1520602189379",
+      "websites": [
+        {
+          "id" : "12",
+          "website": "Piano Concerto No. 0",
+          "webaddress": "Beethoven",
+          "genre": "Classical",
+          "duration": 8
+        },
+        {
+          "id" : "13",
+          "website": "Piano Concerto No. 4",
+          "webaddress": "Beethoven",
+          "genre": "Classical",
+          "duration": 3
+        },
+        {
+          "id" : "14",
+          "website": "Piano Concerto No. 6",
+          "webaddress": "Beethoven",
+          "genre": "Classical",
+          "duration": 4
         }
       ]
     }

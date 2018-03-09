@@ -1,0 +1,42 @@
+body {
+  background-image: url("https://cdn.glitch.com/2e7e195f-8aeb-4aa6-9de5-9981c0a9cf45%2FBeautiful-Pixel-Heart-Wallpaper-HD.jpg?1520598941048");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ui.table thead th{
+  background-color:lightblue;
+  color:white;
+}
+
+.imgholder img{
+  float:right;
+  margin-top:5px;
+  
+  
+}
+.imgholder{
+position:absolute;
+  display:inline-block;
+  right:0;
+  top:0;
+}
+
+.ui.stacked.segment{
+ position:relative; 
+}
+      
+
+.clearfix{
+  overflow: auto;
+}
+.clearfix::after{
+ display:table;
+  clear:both;
+  content:"";
+}
+
+.ui.header{
+ display:inline-block; 
+}
+

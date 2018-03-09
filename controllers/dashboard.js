@@ -11,8 +11,17 @@ const dashboard = {
       bookmark: bookmarkStore.getAllBookmarks(),
     };
     
+    
+    
     logger.info('about to render',bookmarkStore.getAllBookmarks());
     response.render('dashboard', viewData);
+  },
+  
+  removeBookmark(request, response) {
+    const bookmarkId = request.params.id;
+    logger.debug(`Deleting Bookmark ${bookmarkId}`);
+    bookmarkStore.removeBookmark(bookmarkId);
+    response.redirect('/dashboard');
   },
 };
 
