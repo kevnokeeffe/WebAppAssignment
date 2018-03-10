@@ -11,22 +11,22 @@
           "id" : "04",
           "website": "Html Dog",
           "webaddress": "http://htmldog.com/guides/html/beginner/",
-          "genre": "Web Design",
-          "duration": 5
+          "genre": "Web Design"
+          
         },
         {
           "id" : "05",
           "website": "W3 Schools",
           "webaddress": "https://www.w3schools.com",
-          "genre": "Web Design",
-          "duration": 6
+          "genre": "Web Design"
+          
         },
         {
           "id" : "06",
           "website": "Code Academy",
           "webaddress": "https://www.codecademy.com",
-          "genre": "Web Design",
-          "duration": 4
+          "genre": "Web Design"
+          
         }
       ]
     },
@@ -40,22 +40,22 @@
           "id" : "07",
           "website": "Motzilla",
           "webaddress": "https://developer.mozilla.org/en-US/docs/Learn/CSS",
-          "genre": "Web Design",
-          "duration": 8
+          "genre": "Web Design"
+          
         },
         {
           "id" : "08",
           "website": "Css Bootstrap",
           "webaddress": "https://getbootstrap.com/docs/3.3/css/",
-          "genre": "Web Design",
-          "duration": 3
+          "genre": "Web Design"
+          
         },
         {
           "id" : "09",
           "website": "Meyer Web",
           "webaddress": "https://meyerweb.com/eric/tools/css/reset/",
-          "genre": "Web Design",
-          "duration": 4
+          "genre": "Web Design"
+          
         }
       ]
     },
@@ -69,15 +69,15 @@
           "id" : "10",
           "website": "Java Script",
           "webaddress": "https://www.javascript.com/",
-          "genre": "Java",
-          "duration": 11
+          "genre": "Java"
+          
         },
         {
           "id" : "11",
           "website": "Motzilla",
           "webaddress": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
-          "genre": "Web Design",
-          "duration": 45
+          "genre": "Web Design"
+         
         }
       ]
     },
@@ -92,22 +92,22 @@
           "id" : "12",
           "website": "Site Point",
           "webaddress": "https://www.sitepoint.com/ux-designer-actually/",
-          "genre": "Design",
-          "description": 8
+          "genre": "Design"
+          
         },
         {
           "id" : "13",
           "website": "Interaction Design",
           "webaddress": "https://www.interaction-design.org/literature/topics/ux-design",
-          "genre": "Design",
-          "duration": 3
+          "genre": "Design"
+          
         },
         {
           "id" : "14",
           "website": "UX Collective",
           "webaddress": "https://uxdesign.cc/",
-          "genre": "Design",
-          "duration": 4
+          "genre": "Design"
+         
         }
       ]
     }
