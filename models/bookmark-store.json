@@ -1,113 +1,100 @@
-
 {
   "bookmarkCollection": [
     {
-      "id" : "01",
+      "id": "01",
       "title": "Html",
       "description": ": Helpfull Html Websites",
-      "img":"https://cdn.glitch.com/2e7e195f-8aeb-4aa6-9de5-9981c0a9cf45%2Fbookmark2.jpg?1520601273783",
+      "img": "https://cdn.glitch.com/2e7e195f-8aeb-4aa6-9de5-9981c0a9cf45%2Fbookmark2.jpg?1520601273783",
       "websites": [
         {
-          "id" : "04",
+          "id": "04",
           "website": "Html Dog",
           "webaddress": "http://htmldog.com/guides/html/beginner/",
           "genre": "Web Design"
-          
         },
         {
-          "id" : "05",
+          "id": "05",
           "website": "W3 Schools",
           "webaddress": "https://www.w3schools.com",
           "genre": "Web Design"
-          
         },
         {
-          "id" : "06",
+          "id": "06",
           "website": "Code Academy",
           "webaddress": "https://www.codecademy.com",
           "genre": "Web Design"
-          
         }
       ]
     },
     {
-      "id" : "02",
+      "id": "02",
       "title": "CSS",
       "description": ": Helpfull CSS Websites",
-      "img":"https://cdn.glitch.com/2e7e195f-8aeb-4aa6-9de5-9981c0a9cf45%2Fbookmark5.jpg?1520602180931",
+      "img": "https://cdn.glitch.com/2e7e195f-8aeb-4aa6-9de5-9981c0a9cf45%2Fbookmark5.jpg?1520602180931",
       "websites": [
         {
-          "id" : "07",
+          "id": "07",
           "website": "Motzilla",
           "webaddress": "https://developer.mozilla.org/en-US/docs/Learn/CSS",
           "genre": "Web Design"
-          
         },
         {
-          "id" : "08",
+          "id": "08",
           "website": "Css Bootstrap",
           "webaddress": "https://getbootstrap.com/docs/3.3/css/",
           "genre": "Web Design"
-          
         },
         {
-          "id" : "09",
+          "id": "09",
           "website": "Meyer Web",
           "webaddress": "https://meyerweb.com/eric/tools/css/reset/",
           "genre": "Web Design"
-          
         }
       ]
     },
     {
-      "id" : "03",
+      "id": "03",
       "title": "JavaScript",
       "description": ": Helpfull Java Script Websites",
-      "img":"https://cdn.glitch.com/2e7e195f-8aeb-4aa6-9de5-9981c0a9cf45%2Fbookmark1.jpg?1520602201067",
+      "img": "https://cdn.glitch.com/2e7e195f-8aeb-4aa6-9de5-9981c0a9cf45%2Fbookmark1.jpg?1520602201067",
       "websites": [
         {
-          "id" : "10",
+          "id": "10",
           "website": "Java Script",
           "webaddress": "https://www.javascript.com/",
           "genre": "Java"
-          
         },
         {
-          "id" : "11",
+          "id": "11",
           "website": "Motzilla",
           "webaddress": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics",
           "genre": "Web Design"
-         
         }
       ]
     },
-    
     {
-      "id" : "04",
+      "id": "04",
       "title": "UX Design",
       "description": ": Helpfull UX Design Websites",
-      "img":"https://cdn.glitch.com/2e7e195f-8aeb-4aa6-9de5-9981c0a9cf45%2Fbookmark4.jpg?1520602189379",
+      "img": "https://cdn.glitch.com/2e7e195f-8aeb-4aa6-9de5-9981c0a9cf45%2Fbookmark4.jpg?1520602189379",
       "websites": [
         {
-          "id" : "12",
+          "id": "12",
           "website": "Site Point",
           "webaddress": "https://www.sitepoint.com/ux-designer-actually/",
           "genre": "Design"
-          
         },
         {
-          "id" : "13",
+          "id": "13",
           "website": "Interaction Design",
           "webaddress": "https://www.interaction-design.org/literature/topics/ux-design",
           "genre": "Design"
-          
         },
         {
-          "id" : "14",
+          "id": "14",
           "website": "UX Collective",
           "webaddress": "https://uxdesign.cc/",
           "genre": "Design"
-         
         }
       ]
     }
