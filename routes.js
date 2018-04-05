@@ -11,11 +11,11 @@ const uxdesign = require('./controllers/uxdesign.js');
 
 
 router.get('/', start.index);
-
+router.post('/dashboard/addbookmark', dashboard.addBookmark);
 router.get('/dashboard', dashboard.index);
 router.get('/dashboard/removeBookmark/:id', dashboard.removeBookmark);
 router.get('/bookmark/:id/deleteweb/:webid', bookmark.deleteWeb);
-
+router.post('/bookmark/:id/addweb', bookmark.addweb);
 router.get('/bookmark/:id',bookmark.index);
 router.get('/uxdesign', uxdesign.index);
 router.get('/about', about.index);
